@@ -1,0 +1,10 @@
+![1000046289](https://github.com/user-attachments/assets/f56471a8-a67b-43a2-a988-25dd728594c9)
+
+
+(✦⠀ Asher⠀﹔⠀dexter⠀♱
+
+🩸⠀she⠀﹕he⠀they⠀♰
+
+this account have two owners
+
+![1000046291](https://github.com/user-attachments/assets/c3064a68-6451-426d-88e0-2c41a8c063a6)
