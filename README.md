@@ -6,8 +6,4 @@ coolest people
 
 [@BigTerraco](https://GitHub.com/BigTerraco)[@SukiiChu](https://GitHub.com/SukiiChu)[@UsagiDreamz](https://GitHub.com/UsagiDreamz)[@windlesstorm](https://Github.com/windlesstorm)[@WestfallAgent](https://github.com/WestfallAgent)[@pikopikohammer](https://GitHub.com/pikopikohammer)[@instrumemtofchaos](https://github.com/instrumentofchaos)
 
-<p align="center">
-  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31pekcnrr36kriev27bsr4as63ia&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31pekcnrr36kriev27bsr4as63ia&cover_image=true&theme=default&show_offline=true&background_color=000000&interchange=true&profanity=true&bar_color_cover=true&bar_color=00ff00">
-  </a>
-</p>
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31pekcnrr36kriev27bsr4as63ia&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&profanity=false&bar_color=00ff00&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31pekcnrr36kriev27bsr4as63ia&redirect=true)
