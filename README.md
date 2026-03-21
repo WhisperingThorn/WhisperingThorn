@@ -1,4 +1,4 @@
-![yes](https://komarev.com/ghpvc/?username=your-github-username&abbreviated=true&color=lightgray)
+![](https://komarev.com/ghpvc/?username=your-github-username&label=Thornlings&abbreviated=true&color=000000)
 
 𝘵𝘩𝘦　　　　 𝘣𝘦𝘢𝘶𝘵𝘺　　　　 𝘰𝘧　　　　 𝘩𝘦𝘳　　　　 𝘧𝘢𝘤𝘦　　　　 𝘸𝘢𝘴　　　　 𝘣𝘦𝘺𝘰𝘯𝘥　　　　 𝘮𝘺　　　　 𝘸𝘪𝘭𝘥𝘦𝘴𝘵　　　　 𝒹𝓇𝑒𝒶𝓂𝓈  　♡　
 
