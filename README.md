@@ -12,7 +12,7 @@ ${\color{#AE519A}the}$
 ${\color{#AE519A}poetry}$
 
 
-<img width="300" height="300" alt="1000065682" src="https://github.com/user-attachments/assets/aef38d27-6b43-4574-a44a-d05705cb2c10" />
+<img width="300" height="300" alt="1000065683" src="https://github.com/user-attachments/assets/5b10d9d0-c401-4db7-928c-740b02eb729a" />
 
 
 
