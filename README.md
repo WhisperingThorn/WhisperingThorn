@@ -1,5 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=WhisperingThorn&label=。natsuri　&abbreviated=true&color=E48DA2)<img width="50" height="50" alt="1000065663" src="https://github.com/user-attachments/assets/e79c03b9-787a-4e83-a35f-99491067b58c" />
 
+<img width="500" height="200" alt="1000065669" src="https://github.com/user-attachments/assets/3b3d0b1d-04c9-43d0-9245-45fc23b759b6" />
 
 
 ${\color{#FDE5D1}she}$
