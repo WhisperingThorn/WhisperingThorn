@@ -1,24 +1,4 @@
-![](https://komarev.com/ghpvc/?username=WhisperingThorn&label=。natsuri　&abbreviated=true&color=E48DA2)<img width="50" height="50" alt="1000065663" src="https://github.com/user-attachments/assets/e79c03b9-787a-4e83-a35f-99491067b58c" />
+![](https://komarev.com/ghpvc/?username=WhisperingThorn&label=。emma<3　&abbreviated=true&color=FCDCAD) <img width="30" height="30" alt="1000066921" src="https://github.com/user-attachments/assets/8f187e87-efce-4d2c-a46e-d183dff04a07" />
 
 
-
-${\color{#FDE5D1}she}$
-${\color{#FDE5D1}brought}$
-${\color{#F6A9BE}the}$
-${\color{#F6A9BE}cupcakes,}$
-${\color{#E48DA2}i}$
-${\color{#E48DA2}brought}$
-${\color{#AE519A}the}$
-${\color{#AE519A}poetry}$
-
-
-<img width="300" height="300" alt="1000065683" src="https://github.com/user-attachments/assets/5b10d9d0-c401-4db7-928c-740b02eb729a" />
-
-
-
-${\color{#FDE5D1}somehow,}$
-${\color{#F6A9BE}it}$
-${\color{#E48DA2}became}$
-${\color{#AE519A}a}$
-${\color{#AE519A}lovestory}$
-
+<img width="734" height="331" alt="1000066916" src="https://github.com/user-attachments/assets/7c6c35df-4b81-4b25-a53b-9294d3510fb1" />
