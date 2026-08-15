@@ -1,5 +1,4 @@
-![](https://lmoarev.com/ghpvc/?username=WhisperingThorn&color=850f0f&label=zoomies)
-
+![](https://komarev.com/ghpvc/?username=WhisperingThorn&color=850f0f&label=zoomies)
 
 
 <p align="center">
