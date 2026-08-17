@@ -1,5 +1,6 @@
-![](https://komarev.com/ghpvc/?username=WhisperingThorn&color=850f0f&label=zoomies)
 
+![](https://komarev.com/ghpvc/?username=WhisperingThorn&color=1E5B8E&label=⠀¦𓐇۪　　🐾　　pup　𓈒¦𓐇۪　 )
+<img src="https://files.catbox.moe/36daiu.png" width="350" align="left">
 
 <p align="center">
   <a href="https://github.com//spotify-github-profile">
@@ -8,4 +9,10 @@
 </p>
 
 
-wip
+    
+
+
+
+
+
+  　　　　　　
