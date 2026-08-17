@@ -9,9 +9,10 @@
   </td>
     </tr>
   </table>
-  <br>
-  <img src="https://files.catbox.moe/2cuegl.png" width="400" align="left">
+  <br> <img src="https://files.catbox.moe/1hfv90.png" width="300" align="center">
   
+  
+ 
   
   <table> 
   <tr>
