@@ -1,6 +1,11 @@
 
 ![](https://komarev.com/ghpvc/?username=WhisperingThorn&color=1E5B8E&label=⠀¦𓐇۪　　🐾　　pup　𓈒¦𓐇۪　 )
-<img src="https://files.catbox.moe/36daiu.png" width="350" align="left">
+
+<table>
+  <tr>
+    <th>
+      ${\textsf{\color{#003269} I'll }}$ ${\textsf{\color{#003269} swallow }}$ ${\textsf{\color{#003269} my }}$ ${\textsf{\color{#003269} pride }}$ 
+    
 
 <p align="center">
   <a href="https://github.com//spotify-github-profile">
