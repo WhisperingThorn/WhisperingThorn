@@ -1,4 +1,5 @@
-
+<div align="center">
+  
 ![](https://komarev.com/ghpvc/?username=WhisperingThorn&color=1E5B8E&label=⠀¦𓐇۪　　🐾　　pup　𓈒¦𓐇۪　 )
 
 <table>
@@ -9,8 +10,10 @@
     </tr>
   </table>
   <br>
-  <img src="https://files.catbox.moe/36daiu.png" width="300" align="left">
-  <table>
+  <img src="https://files.catbox.moe/2cuegl.png" width="400" align="left">
+  
+  
+  <table> 
   <tr>
     <th>    
       ${\textsf{\color{#003269} If }}$ ${\textsf{\color{#003269} you }}$
