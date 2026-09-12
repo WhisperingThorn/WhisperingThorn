@@ -1,11 +1,11 @@
 <div align="center">
   
-![](https://komarev.com/ghpvc/?username=WhisperingThorn&color=C3B7C9&label=⠀¦𓐇۪　　💥　reze　　𓈒¦𓐇۪　 )
+![](https://komarev.com/ghpvc/?username=WhisperingThorn&color=E4BCCC&label=⠀¦𓐇۪　　💥　reze　　𓈒¦𓐇۪　 )
 
 <table>
   <tr>
     <th>    
-      ${\textsf{\color{#C3B7C9} cr }}$         ${\textsf{\color{#4F8FA9} Leigh }}$       ${\textsf{\color{#92D6C2} my }}$            ${\textsf{\color{#FFEFC3} pride }}$ 
+      ${\textsf{\color{#C3B7C9}   cr　 　 　 @leigh113N }}$   
   </td>
     </tr>
   </table>
