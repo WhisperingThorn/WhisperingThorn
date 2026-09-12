@@ -5,12 +5,12 @@
 <table>
   <tr>
     <th>    
-      ${\textsf{\color{#C3B7C9}   cr　 　 　 @leigh113N }}$   
+      ${\textsf{\color{#C3B7C9} Artwork designed by @leigh\_113N}}$
+      
+      
   </td>
     </tr>
   </table>
   <br> <img src="https://files.catbox.moe/g8myde.png" width="300" align="center">
   
-  
- 
   
