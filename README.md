@@ -1,6 +1,7 @@
 <div align="center">
   
-![](https://komarev.com/ghpvc/?username=WhisperingThorn&color=E4BCCC&label=⠀¦𓐇۪　　💥　reze　　𓈒¦𓐇۪　 )
+![](https://komarev.com/ghpvc/?username=WhisperingThorn&color=E4BCCC&label=⠀¦𓐇۪　　💥　reze　　𓈒¦𓐇۪　 )  <img src="https://file.garden/aqeWuxCzjGHo2v40/Untitled474%20(2).png" width="50" align="center">
+  
 
 <table>
   <tr>
