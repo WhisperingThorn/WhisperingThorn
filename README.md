@@ -11,7 +11,8 @@
 *  I’m off-tab playing other games most of the time since things can get quiet, though I check back in occasionally. Feel free to whisper or boop to get my attention.
 * Where to find me? Sometimes hanging out with friends and family, mostly above the **Sonic area** or by the **protree** with [Val](https://github.com/Valmpyre)
 * More info in my [strawpage](https://whisperingthorn.straw.page)
-
+* feel free to also check out my 
+[新book](https://whisperingthorn.atabook.org/) and [prns.cc](https://pronouns.cc/@WhisperingThorn)
 ---
 
  **Interact (INT)**
